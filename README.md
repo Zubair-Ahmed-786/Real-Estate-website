@@ -2,7 +2,7 @@
 
  This is my practice project.
 
- This is Beautiful landing real estate website.
+ This is Beautiful landing-page real estate website.
 
  # Featured
 
